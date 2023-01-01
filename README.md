@@ -12,7 +12,7 @@ I've been coding for a while now, but I've never really documented my journey. I
 
 tl;dr: I'm going to learn to code, and build a bunch of things.
 
-I really got myself in artificial intelligence and machine learning, and I want to learn more about it over the next year along with a ton of mathematics. I'm also going to make my first [Sprig](https://sprig.hackclub.com) game.
+I really got myself in artificial intelligence, and I want to learn more about it over the next year along with a ton of mathematics. I'm also going to make my first [Sprig](https://sprig.hackclub.com) game.
 
 Additionally, I'm going to be learning a lot of other things, including:
 
