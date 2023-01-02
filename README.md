@@ -17,10 +17,25 @@ I really got myself in artificial intelligence, and I want to learn more about i
 Additionally, I'm going to be learning a lot of other things, including:
 
 - **Calculus** (I'm going to be taking AP Calculus BC in May, so I want to get a head start)
-- **Data structures and algorithms** (Trying to get into USACO's platinum division)
+- **Data structures and Algorithms** (Trying to get into USACO's platinum division)
 - **Hardware** (I really want to build a gaming controller for my future Sprig board)
 - **Machine learning** (how neural networks work, the mathematics behind it, and etc.)
 - And a lot more!
+
+## What have you done so far?
+
+- [January](january)
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
 
 ## What will you do when 2024 comes around?
 
